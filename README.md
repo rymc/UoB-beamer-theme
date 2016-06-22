@@ -1,10 +1,11 @@
-# University of Bristol presentation theme based on the PowerPoint template
+# SPHERE University of Bristol presentation theme based on the PowerPoint template
 
 Copyright (c) 2012, David A.W. Barton (david.barton@bristol.ac.uk)
+Copyright (c) 2016, Tom Diethe (tom.diethe@bristol.ac.uk)
 All rights reserved.
 
 The latest version of this theme can be found on
-[GitHub](https://github.com/db9052/UoB-beamer-theme) 
+[GitHub](https://github.com/IRC-SPHERE/UoB-beamer-theme)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
